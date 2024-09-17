@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\title{TAREA HEURISTICA}
+\author{Cesar Lucas Mamani Posto}
+\date{September 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{¿Que es la Heuristica?}
+La heurística en matemáticas se refiere a un conjunto de técnicas y estrategias que nos ayudan a encontrar soluciones a problemas, especialmente cuando no existe un método algorítmico definido. En otras palabras, son como "atajos mentales" que nos permiten explorar diferentes enfoques y llegar a una respuesta de manera más eficiente.
+\\
+\includegraphics{Sin título.jpeg}
+\\
+\section{¿Por qué es importante la heurística?}
+\subsection{Problemas complejos:}
+Muchos problemas matemáticos, especialmente en áreas como la optimización o la inteligencia artificial, son demasiado complejos para ser resueltos mediante fórmulas exactas.
+\\
+\includegraphics{1.jpeg}
+\\
+\subsection{Descubrimiento:}
+La heurística fomenta la creatividad y el pensamiento crítico, permitiendo descubrir nuevas soluciones y enfoques.
+\\
+\includegraphics{2.png}
+\\
+\subsection{Aprendizaje:}
+Al utilizar heurísticas, comprendemos mejor los problemas y desarrollamos habilidades de resolución de problemas más generales.
+\\
+\includegraphics{3.jpeg}
+\\
+\section{Conclucion}
+la heurística en matemáticas es una habilidad esencial para cualquier persona que quiera desarrollar su pensamiento matemático y resolver problemas de manera efectiva. Al comprender y aplicar diferentes heurísticas, podrás abordar una amplia variedad de desafíos matemáticos con mayor confianza y éxito.
+\end{document}
